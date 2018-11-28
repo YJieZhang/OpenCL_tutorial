@@ -196,6 +196,7 @@ Host can find out that command completed
 |short|16|
 |int|32|
 |long|64|
+
 **Each of them has unsigned version**
 #### Floating point types
 |type|size(bit)|
@@ -203,6 +204,7 @@ Host can find out that command completed
 |half|16|
 |float|32|
 |double|64|
+
 **half and double types might not be supported**
 #### Host and Device Types
 #### Memory Regions
